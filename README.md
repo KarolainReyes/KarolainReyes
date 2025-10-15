@@ -1,6 +1,6 @@
 # ✨ ¡Hola, mundo! Soy Karolain Reyes ✨
 
-![Bienvenidos a mi GitHub]([https://fakeimg.pl/1200x300/87CEEB/ffffff/?text=Bienvenidos%20a%20mi%20GitHub&font=lobster](https://drive.google.com/file/d/1Mp-UCOl6NF8d7fLgp_Q0uenw2-_QSly7/view?usp=drive_link))
+![Bienvenidos a mi GitHub]([https://fakeimg.pl/1200x300/87CEEB/ffffff/?text=Bienvenidos%20a%20mi%20GitHub&font=lobster](https://drive.google.com/file/d/1Mp-UCOl6NF8d7fLgp_Q0uenw2-_QSly7/view?usp=drive_link)
 
 
 ## Sobre mí 💬
