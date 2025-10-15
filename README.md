@@ -89,16 +89,12 @@ These are the main tools and technologies I work with:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KarolainReyes&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
   <br/>
-</div>
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarolainReyes&layout=compact&theme=tokyonight" alt="Top Languages"/>
+ 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarolainReyes&layout=compact&theme=tokyonight" alt="Top Languages"/>
   <br/>
-</div>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KarolainReyes&theme=tokyonight" alt="GitHub Streak"/>
-  <br/>
-</div>
 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KarolainReyes&theme=tokyonight" alt="GitHub Streak"/>
+</div>
 
 ---
 
